@@ -1,0 +1,10 @@
+this is my first coding class.
+# Import the data:
+pop_data = pd.read_csv("us_cities_small.csv")
+
+# Look at the current pop_data DataFrame:
+pop_data.head()
+
+
+# Look at the current user_data DataFrame:
+user_data.head()
